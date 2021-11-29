@@ -111,9 +111,9 @@ For each record in the dataset it is provided:
 
 ## Files 
 
-1. HAR_EDA.ipynb --> Exploratory data Analysis of the data and preprocessing the data
-2. HAR_PREDICTION_MODELS.ipynb --> Built a Classic Machine Learning Model with different type of classification algorithms on feature enginnered data
-3. HAR_LSTM.ipynb --> Built a Deep Learning Sequential Model with single layer of LSTM and with dropouts on raw data.
+1. HumanActivity_EDA.ipynb --> Exploratory data Analysis of the data and preprocessing the data
+2. Machine_Learning_Predictions_Model.ipynb --> Built a Classic Machine Learning Model with different type of classification algorithms on feature enginnered data
+3. DeepNN_LSTM_model.ipynb --> Built a Deep Learning Sequential Model with single layer of LSTM and with dropouts on raw data.
 
 ## Performance
 
