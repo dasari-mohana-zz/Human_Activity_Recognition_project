@@ -90,7 +90,8 @@ For each record in the dataset it is provided:
 	- STANDING as __5__
 	- LAYING as __6__
     
-## Train and test data were saperated
+## Train and test data 
+
  - The readings from ___70%___ of the volunteers were taken as ___trianing data___ and remaining ___30%___ subjects recordings were taken for ___test data___
  
 ## Data
